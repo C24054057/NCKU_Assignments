@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/blackhole.png</file>
+        <file>res/bullet.jpg</file>
+        <file>res/doodler.png</file>
+        <file>res/monster.png</file>
+        <file>res/platform.png</file>
+        <file>res/platform2.png</file>
+        <file>res/prop1.png</file>
+        <file>res/prop2.png</file>
+    </qresource>
+</RCC>
